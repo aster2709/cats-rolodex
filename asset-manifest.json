@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cats-rolodex/static/css/main.d930e7ae.chunk.css",
+    "main.js": "/cats-rolodex/static/js/main.76d4c5e3.chunk.js",
+    "main.js.map": "/cats-rolodex/static/js/main.76d4c5e3.chunk.js.map",
+    "runtime-main.js": "/cats-rolodex/static/js/runtime-main.c4a25ffc.js",
+    "runtime-main.js.map": "/cats-rolodex/static/js/runtime-main.c4a25ffc.js.map",
+    "static/js/2.c8035c97.chunk.js": "/cats-rolodex/static/js/2.c8035c97.chunk.js",
+    "static/js/2.c8035c97.chunk.js.map": "/cats-rolodex/static/js/2.c8035c97.chunk.js.map",
+    "static/js/3.9368b369.chunk.js": "/cats-rolodex/static/js/3.9368b369.chunk.js",
+    "static/js/3.9368b369.chunk.js.map": "/cats-rolodex/static/js/3.9368b369.chunk.js.map",
+    "index.html": "/cats-rolodex/index.html",
+    "static/css/main.d930e7ae.chunk.css.map": "/cats-rolodex/static/css/main.d930e7ae.chunk.css.map",
+    "static/js/2.c8035c97.chunk.js.LICENSE.txt": "/cats-rolodex/static/js/2.c8035c97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a25ffc.js",
+    "static/js/2.c8035c97.chunk.js",
+    "static/css/main.d930e7ae.chunk.css",
+    "static/js/main.76d4c5e3.chunk.js"
+  ]
+}
